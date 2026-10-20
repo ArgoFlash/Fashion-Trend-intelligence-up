@@ -1,0 +1,622 @@
+{
+  "all": {
+    "miou": null,
+    "miou_without_background": null,
+    "miou_clothes": null,
+    "macro_dice": null,
+    "pixel_accuracy": null,
+    "classes": [
+      {
+        "id": 0,
+        "label": "Background",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 1,
+        "label": "Hat",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 2,
+        "label": "Hair",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 3,
+        "label": "Sunglasses",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 4,
+        "label": "Upper-clothes",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 5,
+        "label": "Skirt",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 6,
+        "label": "Pants",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 7,
+        "label": "Dress",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 8,
+        "label": "Belt",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 9,
+        "label": "Left-shoe",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 10,
+        "label": "Right-shoe",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 11,
+        "label": "Face",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 12,
+        "label": "Left-leg",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 13,
+        "label": "Right-leg",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 14,
+        "label": "Left-arm",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 15,
+        "label": "Right-arm",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 16,
+        "label": "Bag",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 17,
+        "label": "Scarf",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      }
+    ]
+  },
+  "train": {
+    "miou": null,
+    "miou_without_background": null,
+    "miou_clothes": null,
+    "macro_dice": null,
+    "pixel_accuracy": null,
+    "classes": [
+      {
+        "id": 0,
+        "label": "Background",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 1,
+        "label": "Hat",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 2,
+        "label": "Hair",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 3,
+        "label": "Sunglasses",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 4,
+        "label": "Upper-clothes",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 5,
+        "label": "Skirt",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 6,
+        "label": "Pants",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 7,
+        "label": "Dress",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 8,
+        "label": "Belt",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 9,
+        "label": "Left-shoe",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 10,
+        "label": "Right-shoe",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 11,
+        "label": "Face",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 12,
+        "label": "Left-leg",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 13,
+        "label": "Right-leg",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 14,
+        "label": "Left-arm",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 15,
+        "label": "Right-arm",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 16,
+        "label": "Bag",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 17,
+        "label": "Scarf",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      }
+    ]
+  },
+  "validation": {
+    "miou": null,
+    "miou_without_background": null,
+    "miou_clothes": null,
+    "macro_dice": null,
+    "pixel_accuracy": null,
+    "classes": [
+      {
+        "id": 0,
+        "label": "Background",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 1,
+        "label": "Hat",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 2,
+        "label": "Hair",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 3,
+        "label": "Sunglasses",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 4,
+        "label": "Upper-clothes",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 5,
+        "label": "Skirt",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 6,
+        "label": "Pants",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 7,
+        "label": "Dress",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 8,
+        "label": "Belt",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 9,
+        "label": "Left-shoe",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 10,
+        "label": "Right-shoe",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 11,
+        "label": "Face",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 12,
+        "label": "Left-leg",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 13,
+        "label": "Right-leg",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 14,
+        "label": "Left-arm",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 15,
+        "label": "Right-arm",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 16,
+        "label": "Bag",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 17,
+        "label": "Scarf",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      }
+    ]
+  },
+  "test": {
+    "miou": null,
+    "miou_without_background": null,
+    "miou_clothes": null,
+    "macro_dice": null,
+    "pixel_accuracy": null,
+    "classes": [
+      {
+        "id": 0,
+        "label": "Background",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 1,
+        "label": "Hat",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 2,
+        "label": "Hair",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 3,
+        "label": "Sunglasses",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 4,
+        "label": "Upper-clothes",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 5,
+        "label": "Skirt",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 6,
+        "label": "Pants",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 7,
+        "label": "Dress",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 8,
+        "label": "Belt",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 9,
+        "label": "Left-shoe",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 10,
+        "label": "Right-shoe",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 11,
+        "label": "Face",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 12,
+        "label": "Left-leg",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 13,
+        "label": "Right-leg",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 14,
+        "label": "Left-arm",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 15,
+        "label": "Right-arm",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 16,
+        "label": "Bag",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      },
+      {
+        "id": 17,
+        "label": "Scarf",
+        "iou": null,
+        "dice": null,
+        "reference_pixels": 0,
+        "predicted_pixels": 0
+      }
+    ]
+  },
+  "coverage": {
+    "requested": 1,
+    "successful": 0,
+    "failed": 1
+  },
+  "model": "sayeed99/segformer_b3_clothes",
+  "endpoint": "https://router.huggingface.co/hf-inference/models/sayeed99/segformer_b3_clothes",
+  "latency_note": "Durée HTTP avec attentes et réessais, pas durée facturée."
+}

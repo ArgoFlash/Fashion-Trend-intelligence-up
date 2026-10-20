@@ -1,0 +1,8 @@
+[
+  {
+    "image": "image_0.png",
+    "status": "error",
+    "fingerprint": "0f21ad3aa7b94afd7fcfa0f299f29a1ef9d835b99a42407b4fa92e61ce1a1353",
+    "error": "HTTP 402 : Crédits d'inférence insuffisants."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "images": 500000,
+    "days": 30,
+    "images_per_day": 16666.666666666668,
+    "requests_per_second": 0.19290123456790123,
+    "assumed_billable_seconds_per_image": 0.5,
+    "assumed_usd_per_compute_hour": 0.5,
+    "extra_billed_attempt_fraction": 0.05,
+    "estimated_usd": 36.458333333333336,
+    "dedicated_always_on_usd": 360.0,
+    "warning": "Scénario hypothétique, hors taxes, stockage et crédits. La latence HTTP n'est pas le temps de calcul facturé."
+  },
+  {
+    "images": 500000,
+    "days": 30,
+    "images_per_day": 16666.666666666668,
+    "requests_per_second": 0.19290123456790123,
+    "assumed_billable_seconds_per_image": 2,
+    "assumed_usd_per_compute_hour": 0.5,
+    "extra_billed_attempt_fraction": 0.05,
+    "estimated_usd": 145.83333333333334,
+    "dedicated_always_on_usd": 360.0,
+    "warning": "Scénario hypothétique, hors taxes, stockage et crédits. La latence HTTP n'est pas le temps de calcul facturé."
+  },
+  {
+    "images": 500000,
+    "days": 30,
+    "images_per_day": 16666.666666666668,
+    "requests_per_second": 0.19290123456790123,
+    "assumed_billable_seconds_per_image": 5,
+    "assumed_usd_per_compute_hour": 0.5,
+    "extra_billed_attempt_fraction": 0.05,
+    "estimated_usd": 364.58333333333337,
+    "dedicated_always_on_usd": 360.0,
+    "warning": "Scénario hypothétique, hors taxes, stockage et crédits. La latence HTTP n'est pas le temps de calcul facturé."
+  }
+]
