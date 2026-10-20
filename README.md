@@ -1,4 +1,4 @@
-# ModeTrends — Requêtez des services IA
+# ModeTrends —> Requêtez des services IA
 
 Segmentation vestimentaire avec
 `sayeed99/segformer_b3_clothes`, via **HF Inference serverless**.
