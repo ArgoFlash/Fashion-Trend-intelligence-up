@@ -109,7 +109,6 @@ facturation, puis extrapoler à 500 000 images.
 
 ## Sources
 
-- Énoncé : https://openclassrooms.com/fr/users/9431275/paths/2464/projects/3158/4337-exercice---requetez-des-services-ia
 - Modèle : https://huggingface.co/sayeed99/segformer_b3_clothes
 - API : https://huggingface.co/docs/inference-providers/tasks/image-segmentation
 - Tarification : https://huggingface.co/docs/inference-providers/pricing
